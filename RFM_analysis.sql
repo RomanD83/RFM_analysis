@@ -11,7 +11,7 @@ from
 
 --Проверка дубликатов:
 
-	select
+select
 	count(*)
 from
 	(
